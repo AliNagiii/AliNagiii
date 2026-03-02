@@ -17,8 +17,6 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" width="45" alt="react logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=emotion" height="45" width="45" alt="emotion logo"  />
-  <img width="16" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="45" width="45" alt="redux logo"  />
   <img width="16" />
   <img src="https://cdn.simpleicons.org/mui/007FFF" height="45" width="45" alt="materialui logo"  />
