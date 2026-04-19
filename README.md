@@ -12,8 +12,9 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" width="45" alt="typescript logo"  />
+  <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" width="45" alt="react logo"  />
   <img width="16" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" height="45" width="45" alt="redux logo"  />
