@@ -21,9 +21,9 @@ The profile updates itself daily via .github/workflows/update_profile.yml
 
 # A L I &nbsp; N A G I
 
-> _Software Engineer @ Zid.sa | Front-End Engineer | Laravel Full-Stack Developer_
+> _Software Engineer @ Zid.sa | Backend Engineer | Full-Stack Developer_
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00F3FF&center=true&vcenter=true&width=600&lines=CORE_CLASS%3A+FRONT-END+%2B+LARAVEL+ENGINEER;INTERFACES%3A+REACT+%2F+TYPESCRIPT+%2F+VUE;STOREFRONTS%3A+PYTHON+%2B+JINJA+%40+ZID;INITIALIZING+NEURAL+LINK...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00F3FF&center=true&vcenter=true&width=600&lines=CORE_CLASS%3A+BACKEND+%2B+FULL-STACK+ENGINEER;INTERFACES%3A+REACT+%2F+TYPESCRIPT+%2F+VUE;STOREFRONTS%3A+PYTHON+%2B+JINJA+%40+ZID;INITIALIZING+NEURAL+LINK...)](https://git.io/typing-svg)
 
 </div>
 
@@ -57,7 +57,7 @@ $ cat /etc/profile
 ┌── SYSTEM PROFILE ──────────────────────────────────────────────┐
 │  Name:        Ali Nagi                                         │
 │  Role:        Software Engineer @ Zid.sa                       │
-│  Specialties: Front-End Engineering | Laravel Full-Stack       │
+│  Specialties: Backend Engineering | Full-Stack Development     │
 │  Location:    Egypt, Helwan                                    │
 │  Stack:       TypeScript • JavaScript • PHP • Python • Jinja   │
 │  Active:      Since 2018 (8+ years)                            │
@@ -112,7 +112,7 @@ $ cat /etc/profile
 
 <br />
 
-### `// FRONTEND_INTERFACES`
+### `// FULL-STACK_INTERFACES`
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
